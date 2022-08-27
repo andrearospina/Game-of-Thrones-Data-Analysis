@@ -35,7 +35,7 @@ Según los resultados obtenidos, en Juego de Tronos se presentaron un total de 2
 ![](https://i.imgur.com/ODkFymy.png)
 
 
-3- La mayor asesina de toda la serie fue Daenarys de la casa Targaryen, con un total de 1008 asesinatos ejecutados en su mayoría, con fuego de dragón.
+3- La mayor asesina de toda la serie fue Daenerys de la casa Targaryen, con un total de 1008 asesinatos ejecutados en su mayoría, con fuego de dragón.
 
 ![](https://i.imgur.com/dZYZdwK.png)
 
@@ -61,7 +61,7 @@ Arya de la casa Stark, con un total de 68 asesinatos mediante veneno, espadas y 
 ![](https://i.imgur.com/uQQCHaO.png)
 
 
-5- El lugar donde se presentaron la mayoría de asesinatos fue en King’s Landing o Desembarco del Rey. 
+5- El lugar donde se presentaron la mayoría de asesinatos fue en King’s Landing (Desembarco del Rey). 
 
 ![](https://i.imgur.com/PFTZuHl.png)
 
@@ -71,7 +71,7 @@ Arya de la casa Stark, con un total de 68 asesinatos mediante veneno, espadas y 
 
 **Otros hallazgos interesantes:**
 
--	Daynerys targaryen ejecutó la mayoría de sus asesinatos en el episodio 5 de la temporada 8 con un total de 773 muertes de 1008 totales. 
+-	Daenerys targaryen ejecutó la mayoría de sus asesinatos en el episodio 5 de la temporada 8 con un total de 773 muertes de 1008 totales. 
 
 
 -	La hija menor de la familia Stark, Arya, ejecutó 54 de sus 68 asesinatos totales durante el episodio 1 de la temporada 7. 
