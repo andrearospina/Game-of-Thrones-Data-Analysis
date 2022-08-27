@@ -61,7 +61,7 @@ Arya de la casa Stark, con un total de 68 asesinatos mediante veneno, espadas y 
 ![](https://i.imgur.com/uQQCHaO.png)
 
 
-5- El lugar donde se presentaron la mayoría de asesinatos fue en el lugar llamado King’s Landing o Desembarco del Rey. 
+5- El lugar donde se presentaron la mayoría de asesinatos fue en King’s Landing o Desembarco del Rey. 
 
 ![](https://i.imgur.com/PFTZuHl.png)
 
